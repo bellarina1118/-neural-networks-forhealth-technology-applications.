@@ -1,2 +1,2 @@
-# -neural-networks-forhealth-technology-applications.
-My home assignments and achievements on the course Neural Networks for Health Technology Applications.
+# My projects and Achievements
+My home assignments and achievements on Information Technology related courses.
