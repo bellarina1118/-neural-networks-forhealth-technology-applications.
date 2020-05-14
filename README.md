@@ -1,2 +1,2 @@
-# My projects and Achievements
-This is where I store my home assignments and achievements on Information Technology related courses. Check on branches on my projects according to course
+# Artificial Intelligence Achievements
+This is my home assignment for an efficient parking space management in a mall applying concepts of artificial intelligence taught in class. Details can be viewed in the PDF file.
